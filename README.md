@@ -1,4 +1,14 @@
+<h1 align="center">Olá 👋, sou Vinicyus</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1viny&label=Profile%20views&color=0e75b6&style=flat" alt="1viny" /> </p>
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vinicyus eduardo vicenitni faria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicyus eduardo vicenitni faria" height="30" width="40" /></a>
+<a href="https://instagram.com/vinicyus.faria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinicyus.faria" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1viny&" alt="1viny" /></p>
 
 <picture>
   <source
