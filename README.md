@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, sou Vinicyus</h1>
+<h1 align="center">Olá 👋, sou Vinicyus Faria</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1viny&label=Profile%20views&color=0e75b6&style=flat" alt="1viny" /> </p>
 
